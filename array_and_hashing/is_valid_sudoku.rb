@@ -70,3 +70,5 @@ def box_index(row, col)
  return 8 if row <= 8 && col <= 5
  return 9 if row <= 8 && col <= 8
 end
+
+# TODO::refactor
