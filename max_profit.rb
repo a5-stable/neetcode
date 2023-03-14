@@ -14,5 +14,5 @@ def max_profit(prices)
       end
   end
 
- output
+  output
 end
